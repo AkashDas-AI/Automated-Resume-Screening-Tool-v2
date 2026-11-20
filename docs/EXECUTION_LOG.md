@@ -588,5 +588,46 @@ This log chronologically records every step, implementation milestone, validatio
   - Implemented new regression test `test_sidebar_and_expander_css_rules`:
     - Asserts presence of `section[data-testid="stSidebar"] ul`, `li`, and `.katex` selectors in generated CSS for both themes.
     - Asserts presence of `[data-testid="stExpander"]`, `[data-testid="stExpanderDetails"]`, and `[data-testid="stExpander"] summary` selectors in generated CSS for both themes.
-  - Executed full test suite: **188/188 passed** in 37.24s across all 8 test modules (`test_dashboard.py`, `test_ranking.py`, `test_report_generator.py`, `test_resume_parser.py`, `test_scoring.py`, `test_similarity.py`, `test_skill_extractor.py`, `test_text_cleaner.py`, `test_visualization.py`).
+  - Executed full test suite: **188/188 passed** in 37.24s across all 8 test modules (`test_dashboard.py`, `test_ranking.py`, `test_report_generator.py`, `test_resume_parser.py`, `test_scoring.py`, `test_skill_extractor.py`, `test_text_cleaner.py`, `test_visualization.py`).
 - **Status**: Post-Approval Light Mode Sidebar Text Rendering Fix Complete. Ready for Phase 14 (GitHub Publication) upon user approval.
+
+---
+
+## 2026-11-21 - Phase 14: GitHub Publication Preparation, Version 2.0 Evolution & Multi-Commit Release
+
+- **Author**: Akash Das
+- **Repository Target**: `https://github.com/AkashDas-AI/Automated-Resume-Screening-Tool-v2.git`
+- **Scope & Objectives**:
+  - Full pre-publication audit, documentation overhaul, and technical claim verification.
+  - Multi-commit structured release strategy partitioning 72 files into 14 logical commits.
+  - Clean preservation of original Version 1.0 repository and local workspace.
+- **Pre-Publication Audit & Reconciliation**:
+  - Reconciled exact publication file count to 72 files via `git ls-files --others --exclude-standard`.
+  - Reconciled test suite inventory: confirmed exactly 188 collected and passing tests across 8 test modules in `tests/`.
+  - Reconciled benchmark dataset format breakdown: verified exact 4 PDF, 3 DOCX, and 3 TXT synthetic resumes in `data/sample_resumes/`.
+  - Security Audit: Confirmed `.env`, `.venv/`, `scratch/`, and private interview materials (`docs/INTERVIEW_PREPARATION_GUIDE.md`) remain strictly ignored by `.gitignore`. Zero credentials or PII across all files.
+  - Technical Claims Refinement: Replaced promotional terms with precise, technically accurate language throughout `README.md` and documentation suite.
+- **Version 2.0 Evolution & Technical Comparison**:
+  - Formally identified the current system as "Version 2.0 | Enhanced Implementation".
+  - Added "Project Evolution: Version 1.0 to Version 2.0" section to `README.md` comparing architecture, ingestion, text cleaning, skill extraction, scoring, tie-breaking, ethics, reporting, visualization, UI, testing, and documentation against the read-only Version 1.0 baseline.
+  - Verified original repository link: `https://github.com/AkashDas-AI/Automated-Resume-Screening-Tool`.
+- **Structured 14-Commit Publication Execution**:
+  1. `77e06d6` - `chore: initialize project configuration and development environment` (7 files)
+  2. `9425972` - `docs: add project structure and contribution guidelines` (2 files)
+  3. `8cf684d` - `data: add junior data analyst benchmark and skill taxonomy` (3 files)
+  4. `1d3ce28` - `data: add ten synthetic multi-format candidate resumes` (11 files)
+  5. `b018b72` - `feat(parser): implement multi-format resume text extraction` (4 files)
+  6. `3133cd1` - `feat(text): add text cleaning and identifier sanitization` (2 files)
+  7. `6649960` - `feat(nlp): implement taxonomy-based skill extraction` (2 files)
+  8. `c962584` - `feat(scoring): implement weighted resume scoring and TF-IDF similarity` (3 files)
+  9. `33bd6cb` - `feat(ranking): add deterministic candidate ranking and review tiers` (2 files)
+  10. `0c493d4` - `feat(reports): implement CSV and Excel report generation` (5 files)
+  11. `8f88295` - `feat(analytics): add candidate and skill visualization` (9 files)
+  12. `f3d98e2` - `feat(dashboard): build interactive Streamlit screening dashboard` (11 files)
+  13. `617200e` - `docs: add technical documentation and benchmark insights` (10 files)
+  14. `f08d1ef` - `docs: finalize Version 2.0 README and GitHub publication guide` (1 file)
+- **Final Verification & Push**:
+  - Automated Testing: **188/188 passed** in 28.65s with 100% pass rate.
+  - Remote Configuration: Configured remote `origin` pointing to `https://github.com/AkashDas-AI/Automated-Resume-Screening-Tool-v2.git`.
+  - Push: Pushed `main` to `origin/main` with branch tracking.
+- **Status**: Phase 14 Complete. Version 2.0 successfully published to GitHub.
