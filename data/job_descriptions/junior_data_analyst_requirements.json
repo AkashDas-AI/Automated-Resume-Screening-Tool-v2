@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "job_title": "Junior Data Analyst",
+    "department": "Data & Analytics",
+    "experience_level": "Entry-Level / Junior (0-2 Years)",
+    "employment_type": "Full-Time",
+    "domain": "Data Analytics",
+    "author": "Akash Das",
+    "project": "Automated Resume Screening Tool",
+    "version": "1.0.0"
+  },
+  "skill_requirements": {
+    "required": [
+      {
+        "id": "REQ-01",
+        "canonical_name": "Python",
+        "category": "Programming Language",
+        "importance": "Mandatory",
+        "aliases": [
+          "python",
+          "python3",
+          "python 3",
+          "py"
+        ]
+      },
+      {
+        "id": "REQ-02",
+        "canonical_name": "SQL",
+        "category": "Database Querying",
+        "importance": "Mandatory",
+        "aliases": [
+          "sql",
+          "structured query language",
+          "postgresql",
+          "postgres",
+          "mysql",
+          "sqlite"
+        ]
+      },
+      {
+        "id": "REQ-03",
+        "canonical_name": "Pandas",
+        "category": "Data Manipulation Library",
+        "importance": "Mandatory",
+        "aliases": [
+          "pandas",
+          "pd"
+        ]
+      },
+      {
+        "id": "REQ-04",
+        "canonical_name": "Data Cleaning",
+        "category": "Data Preprocessing",
+        "importance": "Mandatory",
+        "aliases": [
+          "data cleaning",
+          "data preprocessing",
+          "data wrangling",
+          "data cleansing",
+          "data scrub",
+          "data scrubbing"
+        ]
+      },
+      {
+        "id": "REQ-05",
+        "canonical_name": "Data Analysis",
+        "category": "Analytical Methodology",
+        "importance": "Mandatory",
+        "aliases": [
+          "data analysis",
+          "exploratory data analysis",
+          "eda",
+          "analytical analysis"
+        ]
+      },
+      {
+        "id": "REQ-06",
+        "canonical_name": "Basic Statistics",
+        "category": "Mathematics & Statistics",
+        "importance": "Mandatory",
+        "aliases": [
+          "basic statistics",
+          "statistics",
+          "statistical analysis",
+          "descriptive statistics",
+          "inferential statistics",
+          "hypothesis testing"
+        ]
+      }
+    ],
+    "preferred": [
+      {
+        "id": "PREF-01",
+        "canonical_name": "NumPy",
+        "category": "Numerical Computing Library",
+        "importance": "Advantage",
+        "aliases": [
+          "numpy",
+          "np"
+        ]
+      },
+      {
+        "id": "PREF-02",
+        "canonical_name": "Scikit-learn",
+        "category": "Machine Learning Library",
+        "importance": "Advantage",
+        "aliases": [
+          "scikit-learn",
+          "scikitlearn",
+          "sklearn"
+        ]
+      },
+      {
+        "id": "PREF-03",
+        "canonical_name": "Machine Learning",
+        "category": "Data Science & Modeling",
+        "importance": "Advantage",
+        "aliases": [
+          "machine learning",
+          "ml",
+          "predictive modeling",
+          "supervised learning",
+          "unsupervised learning"
+        ]
+      },
+      {
+        "id": "PREF-04",
+        "canonical_name": "Power BI",
+        "category": "Business Intelligence Tool",
+        "importance": "Advantage",
+        "aliases": [
+          "power bi",
+          "powerbi",
+          "power-bi",
+          "dax"
+        ]
+      },
+      {
+        "id": "PREF-05",
+        "canonical_name": "Tableau",
+        "category": "Data Visualization Tool",
+        "importance": "Advantage",
+        "aliases": [
+          "tableau",
+          "tableau desktop"
+        ]
+      },
+      {
+        "id": "PREF-06",
+        "canonical_name": "Excel",
+        "category": "Spreadsheet Modeling",
+        "importance": "Advantage",
+        "aliases": [
+          "excel",
+          "ms excel",
+          "microsoft excel",
+          "advanced excel"
+        ]
+      }
+    ]
+  },
+  "candidate_matching_preview": {
+    "projected_strong_matches": ["CAND-001", "CAND-010"],
+    "projected_partial_matches": ["CAND-002", "CAND-004", "CAND-005", "CAND-006", "CAND-008", "CAND-009"],
+    "projected_weak_matches": ["CAND-003", "CAND-007"],
+    "note": "Provisional design expectation for pipeline testing; actual scores will be computed in Phase 8."
+  }
+}

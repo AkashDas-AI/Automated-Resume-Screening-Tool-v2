@@ -1,0 +1,87 @@
+================================================================================
+JOB DESCRIPTION: JUNIOR DATA ANALYST
+================================================================================
+
+Position Title: Junior Data Analyst
+Department: Data & Analytics
+Experience Level: Entry-Level / Junior (0–2 Years)
+Employment Type: Full-Time
+Location: Hybrid / Remote
+Author / Reference: Akash Das — Automated Resume Screening Tool Benchmark
+
+--------------------------------------------------------------------------------
+1. ROLE OVERVIEW
+--------------------------------------------------------------------------------
+We are seeking an enthusiastic, analytical, and detail-oriented Junior Data Analyst
+to join our growing analytics team. In this role, you will work closely with data
+engineers and business stakeholders to transform raw data into reliable, actionable
+insights. You will be responsible for extracting data from relational databases,
+performing data cleaning and normalization, conducting exploratory data analysis,
+and supporting reporting needs through statistical analysis and visualization.
+
+This is an entry-level position designed for individuals with strong foundational
+skills in Python and SQL who are eager to expand their practical experience in data
+manipulation, pipeline automation, and business intelligence.
+
+--------------------------------------------------------------------------------
+2. KEY RESPONSIBILITIES
+--------------------------------------------------------------------------------
+- Extract, inspect, and validate structured datasets from relational databases using SQL.
+- Develop and maintain Python scripts utilizing Pandas for data cleaning, transformation,
+  and tabular data wrangling.
+- Identify data anomalies, handle missing values, eliminate duplicates, and standardize
+  data types across diverse data sources.
+- Perform exploratory data analysis (EDA) to uncover operational trends, user behavioral
+  patterns, and performance bottlenecks.
+- Apply basic statistics (measures of central tendency, variance, distributions, and
+  correlation analysis) to substantiate analytical observations.
+- Collaborate with stakeholders to design and deliver recurring reports, analytical summaries,
+  and data dashboards.
+- Document analytical methodologies, maintain data dictionaries, and ensure data integrity.
+
+--------------------------------------------------------------------------------
+3. REQUIRED QUALIFICATIONS & TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+Candidates must demonstrate competence in the following core areas:
+
+1. Python: Strong foundation in Python programming for data analysis, scripting,
+   and file handling.
+2. SQL: Demonstrated ability to write and optimize relational database queries,
+   multi-table JOINs, GROUP BY aggregations, and subqueries (e.g., PostgreSQL, MySQL, SQLite).
+3. Pandas: Hands-on experience with Pandas Series and DataFrames, indexing, filtering,
+   grouping, reshaping, and merging tabular data.
+4. Data Cleaning: Practical knowledge of data preprocessing techniques, handling missing
+   values, outlier detection, string normalization, and data validation.
+5. Data Analysis: Ability to perform exploratory data analysis, interpret quantitative metrics,
+   and synthesize findings into clear takeaways.
+6. Basic Statistics: Sound understanding of descriptive statistics, probability distributions,
+   statistical significance, and hypothesis testing principles.
+
+--------------------------------------------------------------------------------
+4. PREFERRED TECHNICAL SKILLS (BONUS)
+--------------------------------------------------------------------------------
+Familiarity or prior exposure to any of the following is considered an advantage:
+
+1. NumPy: Vectorized computations, multidimensional arrays, and numerical operations.
+2. Scikit-learn: Baseline knowledge of predictive modeling, feature scaling, and evaluation pipelines.
+3. Machine Learning: Conceptual understanding of regression, classification, and clustering techniques.
+4. Power BI: Experience building interactive visual dashboards, reports, and DAX calculations.
+5. Tableau: Ability to craft visual stories, workbooks, and interactive charts.
+6. Excel: Proficiency with pivot tables, advanced formulas (XLOOKUP, INDEX/MATCH), and financial models.
+
+--------------------------------------------------------------------------------
+5. EDUCATIONAL REQUIREMENTS & BACKGROUND
+--------------------------------------------------------------------------------
+- Bachelor's or Master's degree in Computer Science, Data Science, Statistics, Mathematics,
+  Information Systems, Engineering, Economics, or a related quantitative field.
+- Equivalent practical experience demonstrated through substantial academic capstone projects,
+  relevant technical internships, or a portfolio of open-source data analytics repositories.
+
+--------------------------------------------------------------------------------
+6. PROJECT & PORTFOLIO EXPECTATIONS
+--------------------------------------------------------------------------------
+- Evidence of hands-on coursework, personal projects, or internship contributions involving
+  real-world or synthetic data analysis workflows.
+- Familiarity with version control (Git/GitHub) for collaborative development and code sharing.
+- Strong problem-solving mindset, curiosity, and effective written communication skills.
+================================================================================
