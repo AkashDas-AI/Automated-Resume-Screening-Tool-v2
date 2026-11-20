@@ -1,0 +1,25 @@
+# Automated Resume Screening Tool - Production Dependencies
+# Author: Akash Das
+
+# Data Manipulation & Scientific Computing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Document Parsing & Text Extraction
+PyMuPDF>=1.23.0        # High-performance PDF text extraction (fitz)
+python-docx>=1.0.0      # Microsoft Word .docx text and table extraction
+
+# Natural Language Processing & Machine Learning
+scikit-learn>=1.3.0    # TF-IDF vectorization and cosine similarity computation
+
+# User Interface & Web Dashboard
+streamlit>=1.28.0       # Interactive web application and dashboard
+
+# Reporting & Spreadsheet Export
+openpyxl>=3.1.0        # Excel (.xlsx) report generation
+
+# Data Visualization & Chart Generation
+matplotlib>=3.7.0      # Publication-quality static charts, plots, and heatmaps
+
+# Testing & Quality Assurance
+pytest>=7.4.0          # Automated unit and integration testing framework

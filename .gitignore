@@ -1,0 +1,52 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment Variables & Secrets
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Dynamic Runtime Uploads & Outputs (keep directories via .gitkeep)
+data/uploads/*
+!data/uploads/.gitkeep
+outputs/*
+!outputs/.gitkeep
+
+# Scratch directory
+scratch/
+
+# Temporary & Log Files
+*.tmp
+*.temp
+*.log
+
+# Private Interview Preparation & Personal Study Notes (Do Not Commit to GitHub)
+docs/INTERVIEW_*.md
+docs/PREPARATION_*.md
+
