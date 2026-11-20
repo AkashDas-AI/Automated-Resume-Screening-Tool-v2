@@ -1,0 +1,30 @@
+======================================================================
+ROHAN KULKARNI
+Candidate ID: CAND-003 | Enterprise Java Developer
+Email: rohan.kulkarni.sample@example.com | Phone: +1-555-0103 | Location: Tech Park, TP
+======================================================================
+
+1. PROFESSIONAL SUMMARY
+Software Engineer with 4 years of solid enterprise application development experience. Specializes in building secure, distributed services using Java, Spring Boot, and SQL relational databases with high throughput.
+
+2. TECHNICAL SKILLS
+Java, Spring Boot, SQL, Hibernate JPA, MySQL, Maven, JUnit, Microservices, REST APIs, Git
+
+3. EDUCATION
+Bachelor of Engineering in Computer Science
+City Technical University (2016 - 2020)
+
+4. WORK EXPERIENCE
+Software Engineer at CoreTech Enterprises (August 2020 - Present)
+- Developed and maintained mission-critical enterprise backends using Java and Spring Boot.
+- Executed SQL performance tuning, database migrations, and JPA query optimizations on MySQL clusters.
+- Enforced test-driven development using JUnit and Mockito, raising backend code coverage to 88%.
+
+5. PROJECTS
+Enterprise Banking Transaction Ledger
+- Developed secure banking ledger microservices using Java, Spring Boot, and transactional SQL databases.
+Inventory Synchronization Platform
+- Created a distributed inventory tracking service communicating via Spring Boot RESTful services.
+
+6. CERTIFICATIONS
+Oracle Certified Professional: Java SE Developer | Spring Certified Professional

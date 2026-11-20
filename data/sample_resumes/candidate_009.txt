@@ -1,0 +1,30 @@
+======================================================================
+ARJUN REDDY
+Candidate ID: CAND-009 | Senior Data Visualization & Reporting Specialist
+Email: arjun.reddy.sample@example.com | Phone: +1-555-0109 | Location: Metro Heights, MH
+======================================================================
+
+1. PROFESSIONAL SUMMARY
+Insightful Data Visualization Specialist with 5 years of proven experience crafting executive dashboards and analytical reports. Deep technical capabilities across SQL data aggregation, advanced Excel analysis, Tableau visual analytics, and Power BI reporting.
+
+2. TECHNICAL SKILLS
+SQL, Excel, Tableau, Power BI, PostgreSQL, Data Storytelling, Business Analysis, ETL, DAX
+
+3. EDUCATION
+Bachelor of Business Administration in Analytics
+Central State University (2015 - 2019)
+
+4. WORK EXPERIENCE
+Senior Reporting Analyst at Summit Financial Group (June 2019 - Present)
+- Designed enterprise Tableau workbooks and Power BI reports tracking $50M+ annual revenue streams.
+- Wrote advanced SQL queries involving multi-table joins, subqueries, and window functions.
+- Maintained complex corporate Excel models with dynamic lookups, Pivot Tables, and scenario planning.
+
+5. PROJECTS
+Global Operations Performance Dashboard
+- Built cross-platform executive visual dashboards in Tableau and Power BI connected to SQL databases.
+Cost Optimization Analysis Model
+- Developed comprehensive financial models in Excel evaluating operating cost efficiencies.
+
+6. CERTIFICATIONS
+Tableau Desktop Certified Specialist | Microsoft Certified: Power BI Data Analyst

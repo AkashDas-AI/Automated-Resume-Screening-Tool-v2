@@ -1,0 +1,30 @@
+======================================================================
+ANANYA DESHMUKH
+Candidate ID: CAND-006 | Data Science Researcher / Analyst
+Email: ananya.deshmukh.sample@example.com | Phone: +1-555-0106 | Location: Campus Town, CT
+======================================================================
+
+1. PROFESSIONAL SUMMARY
+Motivated Data Science Researcher with a solid mathematical foundation and practical coding abilities. Demonstrates deep capabilities in Python, NumPy matrix operations, Pandas tabular transformations, and Machine Learning algorithms.
+
+2. TECHNICAL SKILLS
+Python, NumPy, Pandas, Machine Learning, Matplotlib, Seaborn, Statistical Inference, Jupyter, Scipy
+
+3. EDUCATION
+Bachelor of Science in Statistics and Computing
+Greenfield University (2019 - 2023) | Graduated with Honors
+
+4. WORK EXPERIENCE
+Graduate Research Assistant at Academic Data Center (July 2023 - Present)
+- Processed high-dimensional empirical matrices using NumPy and transformed structured records with Pandas.
+- Implemented baseline Machine Learning algorithms in Python to detect sensor anomalies across physical testbeds.
+- Drafted comprehensive statistical validation reports with reproducible Jupyter notebooks.
+
+5. PROJECTS
+High-Throughput Signal Matrix Processor
+- Optimized array operations and vectorization routines in Python using NumPy for 10x faster execution.
+Multivariate Medical Outcome Predictor
+- Built exploratory data pipelines in Pandas and trained supervised Machine Learning estimators.
+
+6. CERTIFICATIONS
+Applied Data Science with Python Specialization | Numerical Computing with NumPy
