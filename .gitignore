@@ -50,3 +50,6 @@ scratch/
 docs/INTERVIEW_*.md
 docs/PREPARATION_*.md
 
+# Private Local Maintenance & Cleanup Guides (Do Not Commit to GitHub)
+docs/CLEANUP_*.md
+

@@ -631,3 +631,30 @@ This log chronologically records every step, implementation milestone, validatio
   - Remote Configuration: Configured remote `origin` pointing to `https://github.com/AkashDas-AI/Automated-Resume-Screening-Tool-v2.git`.
   - Push: Pushed `main` to `origin/main` with branch tracking.
 - **Status**: Phase 14 Complete. Version 2.0 successfully published to GitHub.
+
+---
+
+## 2026-11-21 - Post-Publication Workspace Cleanup, Maintenance Protocols & Restoration Guide
+
+- **Author**: Akash Das
+- **Scope & Objectives**:
+  - Systematic local workspace maintenance and transient file cleanup following Version 2.0 GitHub release.
+  - Reclaim disk storage occupied by the Python virtual environment and execution caches while maintaining total reproducibility.
+  - Establish a comprehensive, private local maintenance guide with exact commands for future environment restoration.
+- **Safety Protocols Enforced**:
+  - Strict preservation of the `.git/` folder, commit graph, history, and remote tracking. Zero destructive Git operations.
+  - Full preservation of all 72 tracked publication files, 10 synthetic benchmark resumes (4 PDF, 3 DOCX, 3 TXT), directory anchors, and documentation.
+- **Storage Reclamation Results**:
+  - `.venv/`: 794.48 MB (removed)
+  - `tests/__pycache__/`: 0.57 MB (removed)
+  - `src/__pycache__/`: 0.22 MB (removed)
+  - `__pycache__/` (root): 0.03 MB (removed)
+  - `.pytest_cache/`: 0.02 MB (removed)
+  - `scratch/`: < 0.01 MB (removed)
+  - Total Disk Space Recovered: **795.31 MB** (footprint reduced from 799.84 MB down to ~4.53 MB, representing a **99.43% reduction**).
+- **Maintenance & Restoration Guide**:
+  - Created [`docs/CLEANUP_AND_RESTORATION_GUIDE.md`](file:///d:/Projects/Python/Automated%20Resume%20Screening%20Tool/docs/CLEANUP_AND_RESTORATION_GUIDE.md) providing step-by-step restoration instructions for virtual environment creation, dependency installation, pytest suite execution (188 tests), Streamlit dashboard launch, and CLI pipeline runs.
+- **Git Configuration Update**:
+  - Updated [`.gitignore`](file:///d:/Projects/Python/Automated%20Resume%20Screening%20Tool/.gitignore) with rule `docs/CLEANUP_*.md` to ensure the local maintenance guide remains strictly private and is never published to the public GitHub repository.
+- **Status**: Post-publication cleanup complete. Working tree clean, repository in sync with `origin/main`.
+
